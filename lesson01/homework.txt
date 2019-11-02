@@ -1,0 +1,7 @@
+Write Pyhton code that asks for two numbers entered from keyboad, then display the subtraction of two numbers.
+hints:
+- use input('.....') to get number from keyboard input
+- store each input to a viriable. So you will have two variables
+- subtruct the two variables and stor the result to a third variable.
+- use print() to display the third variable
+ 
