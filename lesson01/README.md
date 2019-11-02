@@ -2,17 +2,17 @@
 
 ## Introduction of ourselves
 ## What is Python?
-	a program language, one of the most popular
-	flexible and Python code is typically 3-5 times shorter than other languages such as C++ and Java
-	easy to learn
-	easy to use
+	- a program language, one of the most popular
+	- flexible and Python code is typically 3-5 times shorter than other languages such as C++ and Java
+	- easy to learn
+	- easy to use
 ## How is Python Used?		
-	almost can do anything
-	task automation
-	example of use: Google search, YouTube
-	even web development 
-	machine leaning, Ai, computer vison
-	Demo: night vision camaera
+	- almost can do anything
+	- task automation
+	- example of use: Google search, YouTube
+	- even web development 
+	- machine leaning, Ai, computer vison
+Demo: night vision camaera
 
 ## Install Python using Anaconda
 
