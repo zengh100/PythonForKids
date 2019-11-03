@@ -1,7 +1,7 @@
 # Welcome to Python Programming  Boys!
 
 ## Introduction of ourselves
-	Edward, Ernest, Jordan, Simon
+	Edward, Ernest, Jordan, Simon, Hairong
 ## What is Python?
 	- a program language, one of the most popular
 	- flexible and Python code is typically 3-5 times shorter than other languages such as C++ and Java
