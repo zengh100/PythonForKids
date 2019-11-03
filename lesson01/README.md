@@ -12,7 +12,7 @@
 	- example of use: Google search, YouTube
 	- even web development 
 	- machine leaning, Ai, computer vison
-Demo: night vision camaera
+Demo: night vision camera with machine learning
 
 ## Install Python using Anaconda
 
