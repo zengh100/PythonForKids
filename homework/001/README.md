@@ -1,4 +1,4 @@
-# Homwork 001
+# Homework# 001
 ## We have learned 3 basic data types: int, float, and str. They are corresponding to integer, decimal, and string.
 ## Question: 
 Variables are assigned with values as below:
