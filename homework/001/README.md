@@ -18,5 +18,5 @@ Variables are assigned with values as below:
 your task is to split them into corresponding data types.
 ## Your answer:
 - Variables that are of type int:  
-- Variable that are of type float:  
-- Variable that are of type str:
+- Variables that are of type float:  
+- Variables that are of type str:
