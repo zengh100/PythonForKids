@@ -7,6 +7,8 @@
 # people also use comment to temporiarily disable/enable code
 
 https://www.youtube.com/watch?v=kEuVvUc1Zec
+https://www.youtube.com/watch?time_continue=147&v=fbek7n6ecWM&feature=emb_logo
+
 """
 
 # In Python, # is used for comment which is not executed

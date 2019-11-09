@@ -1,3 +1,7 @@
+# Formatting Strings
+# concept: https://www.youtube.com/watch?v=bQQqxysLIGE
+# demo: https://www.youtube.com/watch?v=E850-MF22P0
+
 # keyboard 
 # we can use keyboard as an input to get informations or data (such as number or string) from users
 first_name = input("What is your first name? ")
