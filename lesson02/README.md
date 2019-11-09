@@ -4,15 +4,15 @@
 	data types: int, float, str
 ## Install Python using Anaconda
 * download Anaconda: 
-** https://docs.anaconda.com/anaconda/install/windows/
-** file://DESKTOP-OLA7L6N/Anaconda
+    * https://docs.anaconda.com/anaconda/install/windows/
+    * file://DESKTOP-OLA7L6N/Anaconda
 * install: double-click Anaconda3-2019.10-Windows-x86_64.exe to run
 * Create virtual enviroment and install a couple of other componenets
-** conda create --name py36  python=3.6
-** conda activate py36
-** conda install -c conda-forge matplotlib
-** conda install -c conda-forge opencv
-** conda list
+    * conda create --name py36  python=3.6
+    * conda activate py36
+    * conda install -c conda-forge matplotlib
+    * conda install -c conda-forge opencv
+    * conda list
 
 ## Interactive mode and script mode in Python
 ### try Interactive mode
