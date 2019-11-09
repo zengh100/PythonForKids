@@ -16,8 +16,8 @@
 
 ## Interactive mode and script mode in Python
 ### try Interactive mode
-### try Scipt model
-    simplest program: hello.py  print('Hello world!')
+    python
+    print('Hello world!')
 
 ## Install Visual Studio Code
 	https://code.visualstudio.com/
