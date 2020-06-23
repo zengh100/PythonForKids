@@ -11,8 +11,14 @@ empty string '' or ""
 length of empty string is zero
 ' and " doesn't count for length
 """
+# video
+# https://www.youtube.com/watch?v=tSebLz1hNpA
+# https://www.youtube.com/watch?v=zv3cVJHCqXA
+
 print('type of "This is a string"')
 print(type("This is a string"))
+
+# use Control KC (for Visual Code)to coment the following block of code
 print('lenth of "This"')
 print(len("This"))
 # use this comment line to separate my code
